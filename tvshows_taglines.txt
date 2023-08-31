@@ -1,4 +1,3 @@
-Physical.100.S01E08.1080p.WEB.h264-KOGi
 Physical.100.S01E01.1080p.WEB.h264-KOGi[eztv.re].mkv
 Physical.100.S01E02.1080p.WEB.h264-KOGi
 Physical.100.S01E09.1080p.WEB.h264-EDITH[eztv.re].mkv
@@ -10,10 +9,6 @@ Foundation.S02E03.2160p.WEB.H265-SuccessfulCrab[TGx]
 Foundation.2021.S01.2160p.ATVP.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-CasStudio[rartv]
 Foundation.S02E01.HDR.2160p.WEB.h265-ETHEL
 Physical.100.S01E01.1080p.WEB.h264-KOGi.[eztv]
-Physical-100-S01E08-1080p-WEB-h264-KOGi
-Physical.100.S01E08.1080p.WEB.h264-KOGi.[eztv]
-Physical.100.S01E08.1080p.WEB.h264-KOGi[eztv.re].mkv
-Physical.100.S01E08.1080p.WEB.h264-KOGi[eztv.re].mkv[eztv.re]
 Physical.100.S01E02.1080p.WEB.h264-KOGi.[eztv]
 Physical.100.S01E04.1080p.WEB.h264-KOGi.[eztv]
 Seinfeld.S07.2160p.NF.WEB-DL.x265.10bit.HDR.DDP5.1-ABBiE
