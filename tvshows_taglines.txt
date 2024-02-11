@@ -2031,3 +2031,4 @@ firefly.lane.s01e04.1080p.web.h264-ggwp[eztv.re].mkv
 The.Recruit.S01.2160p.NF.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-ZEROBOUNTY[rartv]
 Slow.Horses.S01E01.1080p.WEB.H264-GGEZ.[rarbg]
 Life.on.Our.Planet.S01E06.1080p.WEB.h264-EDITH
+Life.on.Our.Planet.S01E06.720p.WEB.h264-EDITH
