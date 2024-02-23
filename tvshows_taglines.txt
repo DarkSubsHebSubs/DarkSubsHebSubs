@@ -2539,3 +2539,4 @@ The.Order.S01.2160p.NF.WEB-DL.DDP5.1.Atmos.HDR.H.265-NTb[rartv]
 Ted.Lasso.S01E09.All.Apologies.720p.ATVP.WEB-DL.DDP5.1.H.264-NTb[eztv.io].mkv
 Ted.Lasso.S02.2160p.ATVP.WEB-DL.DDP5.1.Atmos.x265-MIXED[rartv]
 Ted.Lasso.S01E09.All.Apologies.1080p.ATVP.WEB-DL.DDP5.1.H264-NTb.mkv
+Ted.Lasso.S01E09.HDR.2160p.WEB-DL.DDP5.1.H.265-ROCCaT.mkv
