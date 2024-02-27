@@ -2732,3 +2732,4 @@ lessons.in.chemistry.s01e02.1080p.web.h264-successfulcrab.mkv
 Slow.Horses.S03E05.2160p.WEB.H265-NHTFS[TGx]
 Hijack.S01.2160p.ATVP.WEB-DL.DDP.5.1.Atmos.DV.HDR.H.265-FLUX
 Too.Hot.to.Handle.S04E02.Theres.Something.About.Nigel.1080p.NF.WEB-DL.DDP5.1.H.264-SMURF.mkv
+lessons.in.chemistry.s01e03.1080p.web.h264-successfulcrab.mkv
