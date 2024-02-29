@@ -991,3 +991,4 @@ Scaffolding.2017.1080p.WEB-DL.DD5.1.H.264-ThatWasEasy.mkv
 samaritan.2022.1080p.web.h264-naisu.mkv
 Samaritan.2022.720p.WEB.h264-KOGi
 Finch.2021.2160p.ATVP.WEB-DL.x265.10bit.SDR.DD5.1.Atmos-TEPES
+Red.Notice.2021.2160p.NF.WEB-DL.x265.10bit.SDR.DDP5.1.Atmos-SMURF
