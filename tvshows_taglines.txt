@@ -3293,3 +3293,4 @@ swagger.s02e02.1080p.web.h264-nhtfs[eztv.re].mkv
 Masters.of.the.Air.S01E03.1080p.WEB.h264-ETHEL.[TGx]
 swagger.s02e03.1080p.web.h264-nhtfs[eztv.re].mkv
 Masters.Of.The.Air.S01E04.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb.mkv
+Swagger.S02E04.1080p.WEB.h264-ETHEL
