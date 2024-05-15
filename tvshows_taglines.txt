@@ -6329,3 +6329,4 @@ loot.s01e01.hdr.2160p.web.h265-ggez.mkv
 blood.of.zeus.s02e07.1080p.web.h264-kawaii[EZTVx.to].mkv
 blood.of.zeus.s02e08.1080p.web.h264-kawaii[EZTVx.to].mkv
 Lessons.in.Chemistry.S01.COMPLETE.1080p.ATVP.WEB-DL.DDPA5.1.H.26
+Palm.Royale.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv
