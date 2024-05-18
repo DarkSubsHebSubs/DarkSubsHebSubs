@@ -6588,3 +6588,4 @@ Servant.S02.HDR.2160p.WEB.H265-MIXED[rartv]
 Outer.Range.S02E04.1080p.WEB.H264-SuccessfulCrab[TGx]
 Clarksons.Farm.S01E01.1080p.WEB.h264-KOGi[eztv.re].mkv
 The.Lord.of.the.Rings.The.Rings.of.Power.S01E04.The.Great.Wave.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HEVC-CMRG[eztv.re].mkv
+WeCrashed.S01E08.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX.mp4
