@@ -6692,3 +6692,4 @@ bosch.s07e04.1080p.web.h264-ggez[eztv.re].mkv
 outer.range.s01e03.hdr.2160p.web.h265-glhf.mkv
 Ted.Lasso.S02E11.HDR.2160p.WEB.H265-GGWP.mkv
 Ted-Lasso-S02E11-2160p-WEB-H265
+Servant.S02E09.HDR.2160p.WEB.H265-GLHF.mkv
