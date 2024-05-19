@@ -6693,3 +6693,4 @@ outer.range.s01e03.hdr.2160p.web.h265-glhf.mkv
 Ted.Lasso.S02E11.HDR.2160p.WEB.H265-GGWP.mkv
 Ted-Lasso-S02E11-2160p-WEB-H265
 Servant.S02E09.HDR.2160p.WEB.H265-GLHF.mkv
+Blood.Coast.S01E06.1080p.WEB.h264-EDITH
