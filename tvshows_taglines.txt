@@ -7053,3 +7053,4 @@ echo.3.s01e01.2160p.web.h265-glhf.mkv
 The.Boys.S02E01.2160p.AMZN.WEBRip.DDP5.1.x265-NTb.mkv
 Trying.S02.2160p.ATVP.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-NTb[rartv]
 Outlander.S04.2160p.NF.WEBRip.DDP5.1.x264-NTb[rartv]
+Bridgerton.S03E02.1080p.WEB.H264-NHTFS.[eztv]
