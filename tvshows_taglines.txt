@@ -7176,3 +7176,4 @@ the.peripheral.s01e04.1080p.web.h264-glhf.mkv
 Franklin.S01E06.ATVP.WEB-DL.1078p.H.264.DDP5.1
 swagger.s02e06.hdr.2160p.web.h265-successfulcrab.mkv
 swagger.s02e07.2160p.web.h265-successfulcrab.mkv
+Franklin.2024.S01E07.720p.WEB.x265-MiNX[TGx]
