@@ -8547,3 +8547,4 @@ WeCrashed.S01.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H264-NOSiViD[rartv]
 Surface.2022.S01E03.HDR.2160p.WEB.H265-GGEZ[rartv]
 black.bird.s01e01.2160p.web.h265-glhf.mkv
 Game.of.Thrones.S01E02.2160p.UHD.BluRay.x265-SCOTLUHD
+Black.Bird.S01E02.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX.mp4
