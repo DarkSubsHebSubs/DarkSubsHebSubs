@@ -14113,3 +14113,4 @@ Bad.Monkey.[0101-08..10].(2024).UHD.WEB-DL-HEVC.2160p.|.4K.|.HDR.|.Dolby.Vision.
 Citadel.S01E01.The.Human.Enigma.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
 tehran.s02e05.1080p.web.h264-cakes.mkv
 Citadel.S01E03.Infinite.Shadows.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+Bad.Monkey.S01E09.2160p.WEB.H265-SuccessfulCrab[TGx]
