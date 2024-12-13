@@ -3494,3 +3494,4 @@ Black.Doves.S01E01.1080p.WEB.H264-SuccessfulCrab/black.doves.s01e01.1080p.web.h2
 Black.Doves.S01E04.1080p.WEB.H264-SuccessfulCrab/
 Black.Doves.S01E06.In.the.Bleak.Midwinter.1080p.NF.WEB-DL.DD.5.1.Atmos.H.264-playWEB/
 Silo.S02E04.The.Harmonium.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.H.265-FLUX/Silo.S02E04.The.Harmonium.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.H.265-FLUX.mkv
+Silo.S02E01.The.Engineer.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv/Silo.S02E01.The.Engineer.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv
