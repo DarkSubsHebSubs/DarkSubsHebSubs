@@ -3822,3 +3822,4 @@ Secret.Level.S01E09.The.Outer.Worlds.The.Company.We.Keep.1080p.AMZN.WEB-DL.DDP5.
 Secret.Level.S01E15.Playtime.Fulfillment.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX
 Secret.Level.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX
 Secret.Level.S01E11.Exodus.Odyssey.1080p.AMZN.WEB-DL.DD.5.1.H.264-playWEB[EZTVx.to].mkv
+Secret.Level.S01E12.Spelunky.Tally.1080p.AMZN.WEB-DL.DD.5.1.H.264-playWEB
