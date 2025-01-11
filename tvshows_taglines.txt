@@ -5663,3 +5663,4 @@ on.call.s01e06.1080p.web.h264-successfulcrab.mkv
 Manifest.S04E06.Relative.Bearing.2160p.NF.WEB-DL.DDP5.1.DV.HDR.H.265-FLUX.mkv
 Silo.S02E01.2160p.ATVP.WEB-DL.HDR.H.265-NORViNE.mkv
 The.Morning.Show.S01.720p.ATVP.WEB-DL.DDP5.1.Atmos.x264-MZABI[rartv]
+Severance.S01E05.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.MP4.x265-DVSUX[rartv]
