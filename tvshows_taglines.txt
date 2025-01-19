@@ -6107,3 +6107,4 @@ loot.s01e03.1080p.web.h264-ggez.mkv
 loot.s01e04.1080p.web.h264-ggez.mkv
 loot.s01e05.1080p.web.h264-glhf.mkv
 Squid.Game.The.Challenge.S01E03.720p.WEB.h264-EDITH[eztv.re].mkv
+Squid.Game.The.Challenge.2023.S01.1080p.NF.WEB-DL.MULTi.DD+5.1.DV.HDR.H.265-TheBiscuitMan
