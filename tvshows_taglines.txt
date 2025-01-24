@@ -6409,3 +6409,4 @@ Manifest.S04E18.Lift.-.Drag.2160p.NF.WEB-DL.DDP5.1.DV.HDR.H.265-FLUX.mkv
 Beast.Games.S01E07.The.Elimination.Train.1080p.AMZN.WEB-DL.DDP2.0.H.264-FLUX/
 Silo.S01E03.Machines.2160p.ATVP.WEBMux.HDR.ITA.ENG.DDP5.1.Atmos.H.265.BlackBit.mkv/Silo.S01E03.Machines.2160p.ATVP.WEBMux.HDR.ITA.ENG.DDP5.1.Atmos.H.265-BlackBit.mkv
 The.Night.Agent.S02E01.1080p.WEB.h264-ETHEL
+Beast.Games.S01E07.1080p.WEB.h264-EDITH/
