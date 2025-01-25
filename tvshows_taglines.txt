@@ -6604,3 +6604,4 @@ You (2018) S04E01 (2160p NF WEB-DL Hybrid H265 DV HDR DDP 5.1 English - HONE).mk
 Silo.S02E09.The.Safeguard.720p.ATVP.WEB.DL.DDP5.1.H.264.NTb.TGx/
 American.Primeval.S01E03.2025.2160p.NF.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-HHWEB.mkv
 Too.Hot.to.Handle.S06E02.Paper.Clips.and.Pay.Per.View.1080p.NF.WEB-DL.DDP5.1.H.264-FLUX.mkv
+House.S02E07.Hunting.1080p.AMZN.WEB-DL.DDP5.1.H.264-playWEB.mkv
