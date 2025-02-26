@@ -2452,3 +2452,4 @@ Trigger.Warning.2024.2160p.NF.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv
 Elemental.2023.Hybrid.UHD.4K.BluRay.2160p.DoVi.HDR.TrueHD.7.1.Atmos.H.265-MgB
 Chicken.Run.Dawn.of.the.Nugget.(2023).[2160p].NF.WEB-DL.Opus.mkv
 Harry.Potter.and.the.Order.of.the.Phoenix.2007.2160p.UHD.BluRay.DV.HDR10.DDP.7.1.x265-BiTOR
+Kinda.Pregnant.2025.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX
