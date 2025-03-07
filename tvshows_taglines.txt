@@ -9044,3 +9044,4 @@ foundation.s01e01.1080p.web.h264-ggez.mkv
 surface.2022.s02e03.1080p.web.h264-successfulcrab[EZTVx.to].mkv
 Severance.S02E08.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX
 Medusa.S01E09.1080p.WEB.h264-EDITH[EZTVx.to].mkv
+House.of.David.S01E04.1080p.WEB-DL.DUAL.5.1
