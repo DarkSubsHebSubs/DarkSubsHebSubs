@@ -9343,3 +9343,4 @@ Formula.1.Drive.to.Survive.S07.2160p.10bit.HFR.WEB-DL.Atmos.HEVC.DV-d22t
 Goliath.S03E05.Argus.2.Battledome.1080p.AMZN.WEB-DL.DD.5.1.H.264-playWEB.mkv
 Bosch.S01E01.HDR.2160p.AMZN.WEB-DL.ESP.ENG.DDP5.1.SUBS.x265-Whisky135.mkv
 surface.2022.s01e07.1080p.web.h264-ggez[eztv.re].mkv
+surface.2022.s01e08.1080p.web.h264-glhf[eztv.re].mkv
