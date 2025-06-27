@@ -766,3 +766,4 @@ Russian.Doll.S02.2160p.NF.WEB-DL.x265.10bit.HDR.DDP5.1-PEXA[rartv]
 Squid.Game.S03E01.1080p.WEB.h264-ETHEL[EZTVx.to].mkv
 Murderbot.S01E01.FreeCommerce.2160p.ATVP.WEB-DL.DD.5.1.Atmos.DoVi.HDR.H.265
 Murderbot.S01E08.Foreign.Object.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.H.265-FLU..Murderbot.S01E08.Foreign.Object.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.H.265-FLUX.mkv
+Murderbot.S01E08.Foreign.Object.720p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-RAWR..Murderbot.S01E08.Foreign.Object.720p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-RAWR[EZTVx.to].mkv
