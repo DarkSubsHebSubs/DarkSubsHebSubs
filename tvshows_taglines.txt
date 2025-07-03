@@ -1382,3 +1382,4 @@ Panic.S01.COMPLETE.1080p.WEB.H264-MIXED[TGx]
 Ozark.(2017).S01.(1080p.NF.WEB-DL.H265.SDR.DDP.5.1.English.-.HONE)
 Panic.S01E02.1080p.WEB.H264-GLHF.mkv
 Better.Call.Saul.S02E01.Switch.2160p.NF.WEB-DL.DDP5.1.HEVC-HHWEB.mkv
+reacher.s02e07.1080p.web.h264-successfulcrab.mkv
