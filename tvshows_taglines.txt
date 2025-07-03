@@ -1386,3 +1386,4 @@ reacher.s02e07.1080p.web.h264-successfulcrab.mkv
 Foundation.S02.Eng.Fre.Ger.Ita.Rus.Spa.2160p.WEBMux.DV.HEVC.Atmos-SGF
 Panic.S01.2160p.AMZN.WEB.DL.x265.10bit.HDR10Plus.DDP5.1.MIXED.rartv.ORARBG
 The.Sandman.S01.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR
+The-Sandman-S01-2160p-NF-WEBRip-x265-10bit-HDR-DDP5-1-Atmos-TrollUHD
