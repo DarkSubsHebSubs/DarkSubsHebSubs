@@ -2078,3 +2078,4 @@ Dept.Q.S01.2025.2160p.NF.WEB-DL.DDP5.1.Atmos.HDR.H.265-ColorTV
 countdown.2025.s01e05.1080p.web.h264-successfulcrab[EZTVx.to].mkv
 Defending.Jacob.S01E03..[2160p.x265.10bit.Joy].mkv
 Ballard.S01E05.1080p.WEB.H264-SuccessfulCrab
+ballard.s01e02.1080p.web.h264-successfulcrab[EZTVx.to].mkv
