@@ -4934,3 +4934,4 @@ Drop.(2025).2160p.BDRemux.HDR10.TrueHD.mkv
 Yes.Man.2008.1080p.BluRay.HQF.mkv
 Holland.2025.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-MonteDiaz
 Stand.by.Me.1986.2160p.BluRay.HEVC.TrueHD.7.1.Atmos-COASTER
+Stand.by.Me.1986.REMASTERED.1080p.BluRay.x264.TrueHD.7.1.Atmos-SWTYBLZ
