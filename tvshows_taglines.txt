@@ -4743,3 +4743,4 @@ the.terminal.list.s01e01.hdr.2160p.web.h265-ggez.mkv
 Foundation.S01E05.1080p.WEB.H264-CAKES
 The.Summer.I.Turned.Pretty.S02E08.FINAL.MULTI.1080p.WEB.H264-HiggsBoson
 Chocolate.S01.1080p.NF.WEBRip.DDP2.0.x265-RL
+Game.of.Thrones.S01E03.2160p.UHD.BluRay.x265-SCOTLUHD
