@@ -5893,3 +5893,4 @@ Secret.Level.2024.S01.MULTI.2160p.WEB-DL.SDR.H265-AOC
 Secret.Level.S01.2160p.AMZN.WEB-DL.DDP5.1.Atmos.DV.H.265-FLUX
 Reacher.S01E08.Pie.2160p.AMZN.WEBRip.DDP5.1.x265-NTb.mkv
 Secret.Level.S01E04.Unreal.Tournament.-.Xan.Ger.Eng.DL.DV.HDR.2160p.WEB.H265-THX.mkv
+the.summer.i.turned.pretty.s03e08.1080p.web.h264-successfulcrab.mkv
