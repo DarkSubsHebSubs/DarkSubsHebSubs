@@ -7949,3 +7949,4 @@ la.maison.s01e01.1080p.web.h264-successfulcrab[EZTVx.to].mkv
 Gen.V.S02E01.2025.WEB-DL.1080p-Dual-Lat
 Foundation.S03E04.WEB-DL.2160p.DV.HDR10.RGzsRutracker.mkv
 Task.S01E01.Crossings.2160p.AMZN.WEB-DL.DDP5.1.H.265-NTb
+Gen.V.S02E01.2025.WEB-DL.1080p-Dual-Lat.mkv
