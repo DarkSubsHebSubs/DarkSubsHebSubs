@@ -9265,3 +9265,4 @@ Formula.1.Drive.To.Survive.S04.2160p.NF.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-APEX
 Formula.1.Drive.To.Survive.S04E02.Bounce.Back.2160p.NF.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-APEX.mkv
 Task.S01E05.1080p.WEB.h264-ETHEL
 Rick_and_Morty_S08_1080p_Web_H264.[CUK]
+Task.S01E05.Vagrants.2160p.HMAX.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX
