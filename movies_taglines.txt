@@ -6671,3 +6671,4 @@ Lights.Out.2016.2160p.WEB-DL.x265.10bit.HDR.DTS-HD.MA.5.1-NOGRP
 Tron.Legacy.2010.Hybrid.2160p.UHD.BluRay.UPSCALE.DV.HDR10+.HEVC.DTS-HD.MA.7.1-DataLass
 Constantine.2005.2160p.BluRay.DV.HDR10+.DDP.Atmos.5.1.x265-BiTOR.mkv
 Caught.Stealing.2025.1080p.MA.WEB-DLRip.x264-HiDt_EniaHD.mkv
+Upgraded.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GalaxyRG265.mkv
