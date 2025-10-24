@@ -6765,3 +6765,4 @@ Maintenance.Required.2025.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX
 A.House.of.Dynamite.2025.1080p.WEB.h264-GRACE
 M3GAN.2.0.(2025).Unrated.(2160p.UHD.BluRay.x265.10bit.DV.HDR.TrueHD.Atmos.7.1.English.French.Spanish.r00t).[QxR]
 A.House.of.Dynamite.2025.2160p.NF.WEB-DL.Multi-Audio.DDP5.1.Atmos.x265-TBMovies
+M3GAN.2.0.2025.Theatrical.Cut.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR
