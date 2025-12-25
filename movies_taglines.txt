@@ -7695,3 +7695,4 @@ Finch.(2021).[Apple.TV.4K.UHD.HDR.HEVC.Atmos].HR-DR
 Die.Hard.1988.1080p.BluRay.REMUX.AVC.DTS-HD-MA.5.1-UnKn0wn.mkv
 Eternity.2025.2160p.iT.WEB-DL.DV.HDR10+[Ben The Men].mp4
 Sisu.2022.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.TrueHD.5.1-CiNEPHiLES
+Die.Hard.[1988.UHD.BDRemux.2160p.HDR10.HDR10+.Dolby.Vision].[Hybrid].Dub.+.7x.MVO.+.4x.DVO.+.8x.AVO.+.6x.VO.+.Sub.(Rus.Eng).+.Original.Eng
