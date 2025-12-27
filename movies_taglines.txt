@@ -7725,3 +7725,4 @@ oxygen.2021.1080p.web.h264-lambic.mkv
 Goodbye.June.2025.2160p.NF.10bit.DoVi.HDR.HEVC.Hindi-Tamil-Telugu.DDP.5.1...English.DDPA.5.1.H.265.1-Ionicboy.mkv
 Goodbye June 2025 2160p NF 10bit DoVi HDR HEVC Hindi-Tamil-Telugu DDP 5.1   English DDPA 5.1 H.265 1-Ionicboy.mkv
 Tron.Ares.2025.2160p.UHD.Blu-ray.Remux.HDR10+.DoVi.CMv4.0.HEVC.TrueHD.7.1.Atmos-SiCFoI
+Tron.Ares.2025.2160p.UHD.Blu-ray.Remux.DV.HDR.HEVC.TrueHD.Atmos.7.1-CiNEPHiLES.mkv
