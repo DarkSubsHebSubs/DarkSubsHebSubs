@@ -2345,3 +2345,4 @@ tehran.s02e05.hdr.2160p.web.h265-glhf.mkv
 Steal S01E03 2026 2160p AMZN WEB-DL HDR H 265 DDP5 1-BiVerseADWeb.mkv
 Bridgerton.S04E01.1080p.WEB.h264-ETHEL.EZTV
 Bridgerton.S04E02.1080p.WEB.h264-ETHEL.EZTV
+stranger.things.s05e07.720p.web.h264-sylix.mkv
