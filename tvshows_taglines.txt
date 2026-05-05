@@ -8800,3 +8800,4 @@ Bonding.S02.2160p.NF.WEB-DL.DD+5.1.HDR10.H.265-HHWEB
 Running.Point.S01E03.The.Travis.Bugg.Affair.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-STC
 Rooster.S01E09.1080p.WEB.h264-GRACE.mkv
 Stranger.Things.Tales.from.85.S01E04.1080p.WEB.h264-GRACE.mkv
+Stranger.Things.Tales.from.85.S01E05.1080p.WEB.h264-GRACE
